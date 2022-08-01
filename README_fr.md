@@ -53,9 +53,9 @@ Merci de faire vos pull request sur la [branche testing](https://github.com/Yuno
 Pour essayer la branche testing, procédez comme suit.
 
 ``` bash
-sudo yunohost app install https://github.com/YunoHost-Apps/ulogger_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/7357-2022/hw2k_ulogger_ynh/tree/testing --debug
 ou
-sudo yunohost app upgrade ulogger -u https://github.com/YunoHost-Apps/ulogger_ynh/tree/testing --debug
+sudo yunohost app upgrade ulogger -u https://github.com/7357-2022/hw2k_ulogger_ynh/tree/testing --debug
 ```
 
 **Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>

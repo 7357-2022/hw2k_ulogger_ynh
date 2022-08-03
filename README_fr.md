@@ -48,7 +48,7 @@ From an admin panel, or a plain file with SSH.
 
 ## Informations pour les développeurs
 
-Merci de faire vos pull request sur la [branche testing](https://github.com/YunoHost-Apps/ulogger_ynh/tree/testing).
+Merci de faire vos pull request sur la [branche testing](https://github.com/7357-2022/hw2k_ulogger_ynh/tree/testing).
 
 Pour essayer la branche testing, procédez comme suit.
 

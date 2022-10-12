@@ -39,6 +39,7 @@ From an admin panel, or a plain file with SSH.
 
 ## Documentation and resources
 
+* Yunohost app: <https://github.com/YunoHost-Apps/ulogger_ynh>
 * Official app website: <https://github.com/bfabiszewski/ulogger-server>
 * Upstream app code repository: <https://github.com/bfabiszewski/ulogger-server>
 * YunoHost documentation for this app: <https://yunohost.org/app_ulogger>
